@@ -3,8 +3,11 @@
 XY Tax Agency collects personal tax returns and associated taxes for the state of XY. There are several related functions that are included as a result of the personal taxes:  
 
 •	The Tax Agency’s tax collection department must notify the taxpayer when the return is received.
+
 •	The Tax Agency’s finance office must send the income taxes to General Fund agency via an electronic transfer of funds. 
+
 •	The Tax Agency notifies the lottery department of unpaid delinquent taxes so the lottery department can withhold winnings until the delinquent taxes are paid.
+
 •	The Tax Agency periodically run’s social security matches with the Internal Revenue Service to determine incorrect social security numbers in the system.  
 
 Create a context diagram which shows the tax collection system and stakeholders.
