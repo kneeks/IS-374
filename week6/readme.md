@@ -11,6 +11,7 @@ XY Tax Agency collects personal tax returns and associated taxes for the state o
 •	The Tax Agency periodically run’s social security matches with the Internal Revenue Service to determine incorrect social security numbers in the system.  
 
 Create a context diagram which shows the tax collection system and stakeholders.
+
 Instructions: 
 
 1)	Create a context diagram showing all stakeholders with inputs and outputs into the system:
